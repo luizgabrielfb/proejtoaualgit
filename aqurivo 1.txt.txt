@@ -1,6 +1,6 @@
 Faculdade uniesp 
 curso de ciencia da computaçao 
-disciplina: topicos essenciais para programação 
+disciplina: tecnologia pra front-end
 
 lista de exercicio
 
